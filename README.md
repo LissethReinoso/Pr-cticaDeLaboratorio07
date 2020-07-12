@@ -106,9 +106,12 @@ _Ventana de desencriptación:
 
 # *RESULTADOS OBTENIDOS:*
 
-•	Correcto manejo de la clase “JFileChooser” en la aplicación creada aprendido por los estudiantes,
-•	Poder encriptar y desencriptar un texto en ficheros txt*
-•	Manejo de Diccionario para el encriptación y desencriptación del texto,
+•	Correcto manejo de la clase “JFileChooser” en la aplicación creada aprendido por los estudiantes.
+
+•	Poder encriptar y desencriptar un texto en ficheros txt*.
+
+•	Manejo de Diccionario para el encriptación y desencriptación del texto.
+
 •	Manejo de las clases “FileWriter” y “FileReader” para escribir y leer el texto.
 
 
