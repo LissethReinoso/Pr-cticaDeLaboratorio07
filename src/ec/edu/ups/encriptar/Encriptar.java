@@ -13,6 +13,27 @@ import java.util.HashMap;
  * @author Liss
  */
 public class Encriptar {
-   
+   char array[];
+
+    Diccionario d;
+
+    HashMap diccionario;
+
+    public String texto(String texto) {
+
+        array = texto.toCharArray();
+
+        d = new Diccionario();
+
+        diccionario = d.criptograma();
+
+        for (int i = 0; i < array.length; i++) {
+            char a = (char) diccionario.get(array[i]);
+            array[i] = a;
+        }
+        String encriptado = String.valueOf(array);
+
+        return encriptado;
+    }
     
 }
