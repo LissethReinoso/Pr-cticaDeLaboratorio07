@@ -7,7 +7,8 @@ package ec.edu.ups.ventana;
 
 /**
  *
- * @author Usuario
+ * @author Nico
+ * @author Liss
  */
 public class VentanaPrincipal extends javax.swing.JFrame {
 

@@ -7,7 +7,8 @@ package ec.edu.ups.escritura;
 
 /**
  *
- * @author Usuario
+ * @author Nico
+ * @author Liss
  */
 public class Escritura {
     

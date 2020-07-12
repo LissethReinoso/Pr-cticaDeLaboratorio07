@@ -5,10 +5,14 @@
  */
 package ec.edu.ups.encriptar;
 
+import java.util.HashMap;
+
 /**
  *
- * @author Usuario
+ * @author Nico
+ * @author Liss
  */
 public class Encriptar {
+   
     
 }
